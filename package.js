@@ -2,7 +2,7 @@ Package.describe({
   name: 'rcy:soft-setting',
   summary: 'Retrieve values from Meteor.settings without errors',
   version: '0.0.1',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/rcy/meteor-soft-setting.git'
 });
 
 Package.onUse(function(api) {
